@@ -1,0 +1,29 @@
+# Python virtual environment
+.venv/
+
+# Environment variables / secrets
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# SQLite databases
+*.db
+*.sqlite
+*.sqlite3
+
+# MANTRA backup
+MANTRA_FINAL_BACKUP.zip
+
+# IDE / editor files
+.vscode/
+
+# Logs
+*.log
+
+# OS files
+Thumbs.db
+.DS_Store

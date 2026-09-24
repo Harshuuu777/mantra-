@@ -1,0 +1,229 @@
+{
+    "college": {
+        "name": "G H Raisoni College of Engineering & Management, Jalgaon",
+        "location": "Jalgaon, Maharashtra",
+        "address": "Gat No. 57, Shirsoli Road, Mohadi, Jalgaon, Maharashtra",
+        "contact": "+91-0257-2264881",
+        "website": "https://ghrcemj.raisoni.net/"
+    },
+    "courses": [
+        {
+            "name": "BCA",
+            "full_name": "Bachelor of Computer Applications",
+            "duration": "3 Years Full Time",
+            "level": "Undergraduate",
+            "description": "Bachelor of Computer Applications program.",
+            "eligibility": "Candidate must have passed HSC or equivalent examination and must have obtained a non-zero positive score in MAH BCA CET or another applicable equivalent entrance examination."
+        },
+        {
+            "name": "B.Tech Computer Engineering",
+            "full_name": "Bachelor of Technology in Computer Engineering",
+            "duration": "4 Years Full Time",
+            "level": "Undergraduate",
+            "description": "Undergraduate engineering program in Computer Engineering.",
+            "eligibility": "For Maharashtra State candidates, the candidate must have passed HSC with Physics and Mathematics and any one of Chemistry, Biology, Biotechnology, Technical or Vocational subjects, with at least 50% marks (45% for reserved categories), and must have a valid MHT-CET or non-zero positive JEE Main score. A Diploma in Engineering with 45% marks (40% for reserved categories) is also an acceptable route."
+        },
+        {
+            "name": "B.Tech Mechanical Engineering",
+            "full_name": "Bachelor of Technology in Mechanical Engineering",
+            "duration": "4 Years Full Time",
+            "level": "Undergraduate",
+            "description": "Undergraduate engineering program in Mechanical Engineering.",
+            "eligibility": "For Maharashtra State candidates, the candidate must have passed HSC with Physics and Mathematics and any one of Chemistry, Biology, Biotechnology, Technical or Vocational subjects, with at least 50% marks (45% for reserved categories), and must have a valid MHT-CET or non-zero positive JEE Main score. A Diploma in Engineering with 45% marks (40% for reserved categories) is also an acceptable route."
+        },
+        {
+            "name": "B.Tech Civil Engineering",
+            "full_name": "Bachelor of Technology in Civil Engineering",
+            "duration": "4 Years Full Time",
+            "level": "Undergraduate",
+            "description": "Undergraduate engineering program in Civil Engineering.",
+            "eligibility": "For Maharashtra State candidates, the candidate must have passed HSC with Physics and Mathematics and any one of Chemistry, Biology, Biotechnology, Technical or Vocational subjects, with at least 50% marks (45% for reserved categories), and must have a valid MHT-CET or non-zero positive JEE Main score. A Diploma in Engineering with 45% marks (40% for reserved categories) is also an acceptable route."
+        },
+        {
+            "name": "B.Tech Electrical Engineering",
+            "full_name": "Bachelor of Technology in Electrical Engineering",
+            "duration": "4 Years Full Time",
+            "level": "Undergraduate",
+            "description": "Undergraduate engineering program in Electrical Engineering.",
+            "eligibility": "For Maharashtra State candidates, the candidate must have passed HSC with Physics and Mathematics and any one of Chemistry, Biology, Biotechnology, Technical or Vocational subjects, with at least 50% marks (45% for reserved categories), and must have a valid MHT-CET or non-zero positive JEE Main score. A Diploma in Engineering with 45% marks (40% for reserved categories) is also an acceptable route."
+        },
+        {
+            "name": "B.Tech Information Technology",
+            "full_name": "Bachelor of Technology in Information Technology",
+            "duration": "4 Years Full Time",
+            "level": "Undergraduate",
+            "description": "Undergraduate engineering program in Information Technology.",
+            "eligibility": "For Maharashtra State candidates, the candidate must have passed HSC with Physics and Mathematics and any one of Chemistry, Biology, Biotechnology, Technical or Vocational subjects, with at least 50% marks (45% for reserved categories), and must have a valid MHT-CET or non-zero positive JEE Main score. A Diploma in Engineering with 45% marks (40% for reserved categories) is also an acceptable route."
+        },
+        {
+            "name": "B.Tech ENTC",
+            "full_name": "Bachelor of Technology in Electronics and Telecommunication Engineering",
+            "duration": "4 Years Full Time",
+            "level": "Undergraduate",
+            "description": "Undergraduate engineering program in Electronics and Telecommunication.",
+            "eligibility": "For Maharashtra State candidates, the candidate must have passed HSC with Physics and Mathematics and any one of Chemistry, Biology, Biotechnology, Technical or Vocational subjects, with at least 50% marks (45% for reserved categories), and must have a valid MHT-CET or non-zero positive JEE Main score. A Diploma in Engineering with 45% marks (40% for reserved categories) is also an acceptable route."
+        },
+        {
+            "name": "B.Tech Artificial Intelligence",
+            "full_name": "Bachelor of Technology in Artificial Intelligence",
+            "duration": "4 Years Full Time",
+            "level": "Undergraduate",
+            "description": "Undergraduate engineering program in Artificial Intelligence.",
+            "eligibility": "For Maharashtra State candidates, the candidate must have passed HSC with Physics and Mathematics and any one of Chemistry, Biology, Biotechnology, Technical or Vocational subjects, with at least 50% marks (45% for reserved categories), and must have a valid MHT-CET or non-zero positive JEE Main score. A Diploma in Engineering with 45% marks (40% for reserved categories) is also an acceptable route."
+        },
+        {
+            "name": "B.Tech Data Science",
+            "full_name": "Bachelor of Technology in Data Science",
+            "duration": "4 Years Full Time",
+            "level": "Undergraduate",
+            "description": "Undergraduate engineering program in Data Science.",
+            "eligibility": "For Maharashtra State candidates, the candidate must have passed HSC with Physics and Mathematics and any one of Chemistry, Biology, Biotechnology, Technical or Vocational subjects, with at least 50% marks (45% for reserved categories), and must have a valid MHT-CET or non-zero positive JEE Main score. A Diploma in Engineering with 45% marks (40% for reserved categories) is also an acceptable route."
+        },
+        {
+            "name": "B.Tech Cyber Security",
+            "full_name": "Bachelor of Technology in Cyber Security",
+            "duration": "4 Years Full Time",
+            "level": "Undergraduate",
+            "description": "Undergraduate engineering program in Cyber Security.",
+            "eligibility": "For Maharashtra State candidates, the candidate must have passed HSC with Physics and Mathematics and any one of Chemistry, Biology, Biotechnology, Technical or Vocational subjects, with at least 50% marks (45% for reserved categories), and must have a valid MHT-CET or non-zero positive JEE Main score. A Diploma in Engineering with 45% marks (40% for reserved categories) is also an acceptable route."
+        }
+    ],
+    "documents": [
+        {
+            "name": "Aadhaar Card",
+            "required": true
+        },
+        {
+            "name": "Caste Certificate",
+            "required": true
+        },
+        {
+            "name": "Domicile Certificate",
+            "required": true
+        },
+        {
+            "name": "Gap Certificate",
+            "required": false
+        },
+        {
+            "name": "HSC Leaving Certificate",
+            "required": true
+        },
+        {
+            "name": "HSC Marksheet",
+            "required": true
+        },
+        {
+            "name": "Income Certificate",
+            "required": false
+        },
+        {
+            "name": "Migration Certificate",
+            "required": false
+        },
+        {
+            "name": "Nationality Certificate",
+            "required": true
+        },
+        {
+            "name": "Non-Creamy Layer Certificate",
+            "required": false
+        },
+        {
+            "name": "SSC Marksheet",
+            "required": true
+        },
+        {
+            "name": "SSC Passing Certificate / Board Certificate",
+            "required": true
+        }
+    ],
+    "admission_steps": [
+        {
+            "step": 1,
+            "title": "Admission Notification",
+            "description": "Check the official college admission notification and available courses."
+        },
+        {
+            "step": 2,
+            "title": "Application",
+            "description": "Complete the admission application with correct student information."
+        },
+        {
+            "step": 3,
+            "title": "Document Verification",
+            "description": "Submit the required documents for verification."
+        },
+        {
+            "step": 4,
+            "title": "Eligibility Verification",
+            "description": "The student's eligibility is checked according to the applicable course and admission rules."
+        },
+        {
+            "step": 5,
+            "title": "Admission Confirmation",
+            "description": "Complete the required admission and fee formalities to confirm admission."
+        }
+    ],
+    "fees": [],
+    "faqs": [
+        {
+            "question": "BCA available hai kya?",
+            "answer": "Yes 😊 BCA is available at G H Raisoni College of Engineering & Management, Jalgaon. It is a 3 Years Full Time undergraduate program."
+        },
+        {
+            "question": "BCA kitne saal ka hai?",
+            "answer": "BCA is a 3 Years Full Time undergraduate program."
+        },
+        {
+            "question": "College kaha hai?",
+            "answer": "G H Raisoni College of Engineering & Management, Jalgaon is located at Gat No. 57, Shirsoli Road, Mohadi, Jalgaon, Maharashtra."
+        },
+        {
+            "question": "College kahan hai?",
+            "answer": "G H Raisoni College of Engineering & Management, Jalgaon is located at Gat No. 57, Shirsoli Road, Mohadi, Jalgaon, Maharashtra."
+        },
+        {
+            "question": "College ka address kya hai?",
+            "answer": "G H Raisoni College of Engineering & Management, Jalgaon is located at Gat No. 57, Shirsoli Road, Mohadi, Jalgaon, Maharashtra."
+        },
+        {
+            "question": "College ka contact number kya hai?",
+            "answer": "The college contact number is +91-0257-2264881."
+        },
+        {
+            "question": "College ki website kya hai?",
+            "answer": "The official college website is https://ghrcemj.raisoni.net/"
+        },
+        {
+            "question": "Scholarship available hai?",
+            "answer": "Yes 😊 Scholarship opportunities may be available depending on the student's eligibility and the applicable scholarship scheme. Please verify the current scheme and eligibility with the college admission team."
+        },
+        {
+            "question": "Admission mein help chahiye",
+            "answer": "Sure! 😊 I can help you with courses, eligibility, documents, fees, scholarships, and the admission process."
+        }
+    ],
+    "eligibility": [
+        {
+            "course": "BCA",
+            "title": "BCA Eligibility",
+            "requirements": [
+                "Candidate must have passed HSC or equivalent examination.",
+                "Candidate must have appeared for and obtained a non-zero positive score in MAH BCA CET or another equivalent entrance examination."
+            ],
+            "source": "Raisoni Education UG admission eligibility, accessed September 2026."
+        },
+        {
+            "course": "B.Tech Artificial Intelligence",
+            "title": "B.Tech Artificial Intelligence Eligibility",
+            "requirements": [
+                "For Maharashtra State candidates, candidate must have passed HSC with Physics and Mathematics and any one of Chemistry, Biology, Biotechnology, Technical or Vocational subjects.",
+                "At least 50% marks are required; 45% for reserved categories.",
+                "A valid MHT-CET or non-zero positive JEE Main score is required.",
+                "A Diploma in Engineering with 45% marks, or 40% for reserved categories, is also acceptable."
+            ],
+            "source": "Raisoni Education B.Tech CSE Artificial Intelligence eligibility, accessed September 2026."
+        }
+    ]
+}
