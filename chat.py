@@ -53,6 +53,5 @@ def main():
 
         print(f"MANTRA: {response}")
 
-
 if __name__ == "__main__":
     main()

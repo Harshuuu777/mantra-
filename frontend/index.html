@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>MANTRA – Smart College Admission Assistant</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <div class="app">
+
+        <!-- SIDEBAR -->
+        <aside class="sidebar">
+
+            <div class="brand">
+                <div class="brand-logo">M</div>
+
+                <div>
+                    <h1>MANTRA</h1>
+                    <span>Admission Assistant</span>
+                </div>
+            </div>
+
+            <div class="status-card">
+                <div class="status-dot"></div>
+
+                <div>
+                    <strong>MANTRA Online</strong>
+                    <small>Ready to help students</small>
+                </div>
+            </div>
+
+            <div class="sidebar-section">
+                <p class="section-title">Quick Questions</p>
+
+                <button class="quick-btn"
+                        onclick="sendQuickMessage('What courses are available?')">
+                    🎓
+                    <span>Available Courses</span>
+                </button>
+
+                <button class="quick-btn"
+                        onclick="sendQuickMessage('BCA ki eligibility kya hai?')">
+                    📋
+                    <span>Eligibility</span>
+                </button>
+
+                <button class="quick-btn"
+                        onclick="sendQuickMessage('BCA admission ke liye documents kaunse lagenge?')">
+                    📄
+                    <span>Required Documents</span>
+                </button>
+
+                <button class="quick-btn"
+                        onclick="sendQuickMessage('Admission process kya hai?')">
+                    📝
+                    <span>Admission Process</span>
+                </button>
+
+                <button class="quick-btn"
+                        onclick="sendQuickMessage('Scholarship available hai?')">
+                    🎓
+                    <span>Scholarships</span>
+                </button>
+            </div>
+
+            <div class="sidebar-bottom">
+
+                <div class="college-info">
+                    <small>Designed for</small>
+                    <strong>G H Raisoni College</strong>
+                    <span>Jalgaon</span>
+                </div>
+
+                <div class="tech-badge">
+                    Python · Flask · SQLite · Flowise
+                </div>
+
+            </div>
+
+        </aside>
+
+
+        <!-- MAIN AREA -->
+        <main class="main">
+
+            <!-- HEADER -->
+            <header class="topbar">
+
+                <div class="topbar-title">
+
+                    <div class="mobile-logo">M</div>
+
+                    <div>
+                        <h2>MANTRA</h2>
+                        <p>Smart College Admission Assistant</p>
+                    </div>
+
+                </div>
+
+                <div class="connection">
+                    <span class="connection-dot"></span>
+                    System Online
+                </div>
+
+            </header>
+
+
+            <!-- CHAT -->
+            <section class="chat-area" id="chatArea">
+
+                <div class="welcome" id="welcomeMessage">
+
+                    <div class="mantra-avatar">
+                        <div class="avatar-ring"></div>
+                        <div class="avatar-face">
+                            <div class="eye left-eye"></div>
+                            <div class="eye right-eye"></div>
+                            <div class="mouth"></div>
+                        </div>
+                    </div>
+
+                    <h2>Hello! 👋</h2>
+
+                    <p>
+                        I'm <strong>MANTRA</strong>, your smart college
+                        admission assistant.
+                    </p>
+
+                    <span>
+                        Ask me about courses, eligibility, documents,
+                        scholarships, or the admission process.
+                    </span>
+
+                </div>
+
+            </section>
+
+
+            <!-- INPUT -->
+            <section class="input-section">
+
+                <div class="typing-status" id="typingStatus">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    <label>MANTRA is ready</label>
+                </div>
+
+                <div class="input-wrapper">
+
+                    <button
+                        class="voice-btn"
+                        id="voiceBtn"
+                        title="Voice input">
+                        🎤
+                    </button>
+
+                    <textarea
+                        id="messageInput"
+                        rows="1"
+                        placeholder="Ask MANTRA anything about admission..."
+                        autocomplete="off"></textarea>
+
+                    <button
+                        class="send-btn"
+                        id="sendBtn"
+                        title="Send message">
+                        ➤
+                    </button>
+
+                </div>
+
+                <p class="input-note">
+                    MANTRA can answer using verified college admission information.
+                </p>
+
+            </section>
+
+        </main>
+
+    </div>
+
+
+    <script src="script.js"></script>
+
+</body>
+</html>
